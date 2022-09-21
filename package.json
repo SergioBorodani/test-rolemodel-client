@@ -14,7 +14,7 @@
     "rolemodel-ui": "^0.4.9",
     "vue": "^2.6.11",
     "vue-router": "3.0.6",
-    "vuetify": "^2.2.14"
+    "vuetify": "^2.6.10"
   },
   "devDependencies": {
     "@vue/cli-service": "^4.2.0",
